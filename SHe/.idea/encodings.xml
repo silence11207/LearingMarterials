@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-dubbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-dubbo/tanhua-dubbo-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-recommend" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tanhua-sso" charset="UTF-8" />
+  </component>
+</project>

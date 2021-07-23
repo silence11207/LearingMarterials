@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tanhua-recommend" />
+        <module name="tanhua-dubbo-interface" />
+        <module name="tanhua-dubbo-service" />
+        <module name="tanhua-elasticsearch" />
+        <module name="tanhua-sso" />
+        <module name="tanhua-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="tanhua-dubbo" options="" />
+      <module name="tanhua-dubbo-interface" options="-parameters" />
+      <module name="tanhua-dubbo-service" options="-parameters" />
+      <module name="tanhua-elasticsearch" options="-parameters" />
+      <module name="tanhua-recommend" options="-parameters" />
+      <module name="tanhua-server" options="-parameters" />
+      <module name="tanhua-sso" options="-parameters" />
+    </option>
+  </component>
+</project>
